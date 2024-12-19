@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("🎈 🍻 My new app")
 st.write(
     "I want to try this out. Specially now with the GitHub desktop version."
 )
